@@ -1261,9 +1261,9 @@ header .header-logo a {
   outline: 0;
   border: none;
   width: 57px;
-  height: 27px;
+  height: 57px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 57px 27px;
+  background-size: 57px 57px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
